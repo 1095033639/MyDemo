@@ -7,8 +7,8 @@ Pod::Spec.new do |s|
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "sdscx" => "11095033639@qq.com" }
   s.platform     = :ios, "6.0"
-  s.source       = { :git => "https://github.com/1095033639/MyDemo.git", :tag => "0.01"}
-  s.source_files  = "MyDemo/**/*.{h,m}"
+  s.source       = { :git => "https://github.com/1095033639/MyDemo.git", :tag => "0.0.1"}
+  s.source_files  = "MyDemo/MyDemo/*.{h,m}"
   s.requires_arc = true
 
 
